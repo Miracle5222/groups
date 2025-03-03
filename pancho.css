@@ -1,0 +1,53 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: red;
+
+
+
+}
+
+.h2{
+    
+    color: blue;
+    text-align: center;
+    font-size: 125px;
+}
+
+body{
+    background-color: rgb(26, 26, 26);
+}
+
+table th{
+    background-color: blueviolet;
+}
+table{
+    margin-left: 400px;
+   
+}
+table td{
+    
+    color: rgb(33, 31, 31);
+}
+table, th,td{
+    border: 2px solid rgb(195, 187, 187);
+    border-collapse: collapse;
+    border-style: dashed;
+    padding: 12px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+
+
+.image{
+
+    background-image: url("./IMAGES/background.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+}

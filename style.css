@@ -75,6 +75,5 @@ ul{
 
 .aside p:first-of-type::first-letter{
     font-size: 90px;
-
-color: rgb(148, 148, 179);
+    color: rgb(82, 235, 16);
 }

@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.h1 , .p{
+           
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h1{
+
+    color: brown;
+}
+.h2{
+    color:red;
+}
+table{
+    margin-left: 200px;
+}
+table,th,td{
+
+    border :2px solid rgb(239, 138, 29);
+    border-collapse: collapse;
+    border-style: dashed;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+ 
+}
+
+table th{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.container{
+    background-image: url("./background.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
